@@ -1,0 +1,19 @@
+# Build directories
+build/
+cmake-build-*/
+out/
+
+# VSCode
+.vscode/ipch/
+.vscode/.cmaketools.json
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Compiled files
+*.o
+*.obj
+*.exe
+*.out
+*.app
